@@ -23,14 +23,14 @@ Abaixo estão os prints de tela que demonstram a aplicação integrada e funcion
 *Página de Produtos*
 ![Página de Produtos](./screenshots/gestao-produtos.png)
 
-*Gerenciamento de Categorias*
+*Página de Categorias*
 ![Página de Categorias](./screenshots/gestao-categorias.png)
 
 *Página de Fornecedores*
 ![Página de Fornecedores](./screenshots/gestao-fornecedores.png)
 
 *Página de Movimentações*
-*[Página de Movimentações](./screenshots/movimentacao-estoque.png)
+![Página de Movimentações](./screenshots/movimentacao-estoque.png)
 
 *Terminal com o Contêiner Docker em Execução*
 ![Docker Running](./screenshots/docker-running.png)
