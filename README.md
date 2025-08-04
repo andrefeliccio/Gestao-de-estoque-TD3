@@ -51,3 +51,9 @@ docker build -t gestao-estoque .
 docker run -p 8080:8080 gestao-estoque
 ```
 5. Acesse a aplicação no seu navegador em http://localhost:8080.
+
+* ADICIONAR DADOS
+
+1. Adicione os Fornecedor
+2. Adicione as categorias
+3. Adicione os produtos 
