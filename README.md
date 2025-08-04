@@ -54,6 +54,6 @@ docker run -p 8080:8080 gestao-estoque
 
 * ADICIONAR DADOS
 
-1. Adicione os Fornecedor
+1. Adicione os Fornecedores
 2. Adicione as categorias
 3. Adicione os produtos 
